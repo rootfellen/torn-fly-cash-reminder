@@ -1,0 +1,18 @@
+{
+  "name": "torn-fly-cash-reminder",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Dev tooling for the Torn 'Don't Fly Broke' userscript. Users only need the .user.js file.",
+  "license": "MIT",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "node test/browser.test.js",
+    "check": "npm run lint && npm test"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.0.0",
+    "eslint": "^9.0.0",
+    "globals": "^15.0.0",
+    "playwright": "^1.47.0"
+  }
+}
