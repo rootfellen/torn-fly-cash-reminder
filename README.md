@@ -15,7 +15,7 @@ On the **Travel** page (`torn.com/page.php?sid=travel`):
 - **Quiet on the way home.** While you're abroad, the script stays hidden. Flying back broke is fine.
 - **Settings.** Set your own minimum (`500000`, `750k` and `2.5m` all work), the unlock time, and turn the banner or the pop-up on or off.
 
-<!-- TODO: add screenshot.png of the banner + pop-up, then replace this line with: ![screenshot](screenshot.png) -->
+![screenshot](https://i.imgur.com/Qom15ob.png)
 
 ## Install
 
